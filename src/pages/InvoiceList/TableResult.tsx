@@ -1,5 +1,5 @@
 import React from 'react';
-import { Table, TableRow, TableHead, TableCell, TableBody, Checkbox, IconButton, Icon, Menu, MenuItem, CircularProgress, Typography } from '@material-ui/core';
+import { Table, TableRow, TableHead, TableCell, TableBody, IconButton, Icon, Menu, MenuItem, CircularProgress, Typography } from '@material-ui/core';
 import moment from 'moment';
 import { IInvoice } from 'interfaces';
 
