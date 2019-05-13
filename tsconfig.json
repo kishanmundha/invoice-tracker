@@ -17,7 +17,6 @@
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
-    "strict": true,
     "forceConsistentCasingInFileNames": true,
     "module": "esnext",
     "resolveJsonModule": true,
